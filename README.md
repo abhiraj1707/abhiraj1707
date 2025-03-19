@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://twitter.com/nihalsinghbhumi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nihalsinghbhumi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abhiraj1707" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhiraj1707" height="30" width="40" /></a>
-<a href="https://instagram.com/niharsinghbhumihar_official/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="niharsinghbhumihar_official" height="30" width="40" /></a>
+<a href="https://instagram.com/17_abhii/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="niharsinghbhumihar_official" height="30" width="40" /></a>
 
 </p>
 
