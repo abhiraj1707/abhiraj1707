@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhiraj Singh</h1>
-<h3 align="center">Pursuing BCA from Bihar, India</h3>
+<h3 align="center">Pursuing MCA from Pune, MH</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhiraj1707&label=Profile%20views&color=0e75b6&style=flat" alt="abhiraj1707" /> </p>
 
